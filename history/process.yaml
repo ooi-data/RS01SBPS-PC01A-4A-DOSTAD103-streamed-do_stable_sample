@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SBPS-PC01A-4A-DOSTAD103-streamed-do_stable_sample
 data_stream: RS01SBPS-PC01A-4A-DOSTAD103-streamed-do_stable_sample
 end_date: '2021-12-01T21:44:07.810Z'
-last_updated: '2021-12-04T03:24:22.571008'
+last_updated: '2021-12-22T05:36:33.388012Z'
 start_date: '2018-11-07T23:26:14.093Z'
-status: success
+status: pending
